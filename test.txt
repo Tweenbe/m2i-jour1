@@ -1,4 +1,4 @@
 test1: youpi!
 nouvelle ligne
 
-Edition en local
+Edition
