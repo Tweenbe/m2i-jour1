@@ -1,2 +1,6 @@
 sur branche b2 je modifie un fichier. 
 Je ferai un rebase de b2 sur master pour voir si le fichier a été mis à jour.
+
+------------
+Avant de récupérer cette phrase, j'ai du me mettre sur b2 en local (cheeckout b2), faire un pull, faire un push.
+checkout master > rebase b2 > git pull > git push
