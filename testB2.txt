@@ -1,0 +1,2 @@
+sur branche b2 je modifie un fichier. 
+Je ferai un rebase de b2 sur master pour voir si le fichier a été mis à jour.
