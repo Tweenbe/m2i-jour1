@@ -1,4 +1,4 @@
 test1: youpi!
 nouvelle ligne
 
-Non test de merge conflictuel
+Edition en local
